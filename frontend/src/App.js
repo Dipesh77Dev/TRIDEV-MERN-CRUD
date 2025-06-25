@@ -1,14 +1,12 @@
 import './App.css'
-import Sarin from './components/sarin'
+import Main from './Components/Why React/main'
 
 function App () {
   return (
     <div>
-      <p>sairin</p>
-      <p>Ashish</p>
-      <p>Dipesh</p>
-      {/* <Sarin></Sarin> */}
-      <Sarin />
+      {/* 1] Why React ==> */}
+      {/* <main /> */}
+      <Main />
     </div>
   )
 }
